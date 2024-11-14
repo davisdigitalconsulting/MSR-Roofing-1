@@ -1,0 +1,47 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 13 Nov 2024 19:41:01 at roofing.local +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Pxs2u1%s%uN0%I0p3DaK0H0%kf2o0A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F  -%l "en, *" roofing.local -O1 "C:\Users\Darrell\Downloads\MSR Roofing 1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:43:47	Warning: 	Retry after error -4 (No data (connection closed)) at link roofing.local/projects/ (from roofing.local/)
+19:43:49	Warning: 	Retry after error -4 (No data (connection closed)) at link roofing.local/contact-us/ (from roofing.local/)
+19:43:51	Warning: 	Retry after error -4 (No data (connection closed)) at link roofing.local/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css (from roofing.local/)
+19:43:52	Warning: 	Retry after error -4 (No data (connection closed)) at link roofing.local/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css (from roofing.local/)
+19:43:53	Warning: 	Retry after error -4 (No data (connection closed)) at link roofing.local/wp-content/uploads/2024/04/roofers-2891664_1280-1-min-1024x683.png (from roofing.local/)
+19:44:11	Warning: 	Retry after error -4 (Incorrect length (781785 Bytes, 1129428 expected)) at link roofing.local/wp-content/uploads/2024/04/gardening-3248249_1280-1-min-1024x682.png (from roofing.local/)
+19:44:11	Warning: 	Retry after error -4 (No data (connection closed)) at link roofing.local/wp-content/uploads/2021/06/yelp.png (from roofing.local/)
+19:44:11	Warning: 	Retry after error -4 (No data (connection closed)) at link roofing.local/wp-content/uploads/2021/06/testimonial-03-free-img-4.png (from roofing.local/)
+19:44:11	Warning: 	Retry after error -4 (No data (connection closed)) at link roofing.local/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.20.4 (from roofing.local/)
+19:44:16	Warning: 	Retry after error -4 (No data (connection closed)) at link roofing.local/wp-content/plugins/astra-sites/inc/lib/onboarding/assets/dist/template-preview/main.js?ver=06758d4d807d9d22c6ea (from roofing.local/)
+19:44:27	Warning: 	Moved Permanently for roofing.local/?p=637
+19:44:27	Warning: 	File has moved from roofing.local/?p=637 to http://roofing.local/about/
+19:44:27	Warning: 	Retry after error -4 (No data (connection closed)) at link roofing.local/wp-content/uploads/2024/04/amerimax.png (from roofing.local/about/)
+19:44:30	Warning: 	Retry after error -4 (No data (connection closed)) at link roofing.local/wp-json/wp/v2/pages/939 (from roofing.local/services/)
+19:44:31	Warning: 	Moved Permanently for roofing.local/?p=939
+19:44:31	Warning: 	File has moved from roofing.local/?p=939 to http://roofing.local/services/
+19:45:37	Warning: 	Retry after error -4 (No data (connection closed)) at link roofing.local/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css (from roofing.local/)
+19:45:39	Warning: 	Retry after error -4 (No data (connection closed)) at link roofing.local/wp-content/uploads/2024/04/roofers-2891664_1280-1-min-1024x683.png (from roofing.local/)
+19:45:50	Error: 	"Not Found" (404) at link roofing.local/wp-content/plugins/wpforms-lite/assets/pro/images/times-solid-white.svg (from roofing.local/wp-content/plugins/wpforms-lite/assets/css/frontend/classic/wpforms-base.min.css?ver=1.8.7.2)
+19:45:50	Warning: 	Retry after error -4 (No data (connection closed)) at link roofing.local/-negative.svg (from roofing.local/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.20.4)
+19:45:50	Warning: 	Retry after error -4 (No data (connection closed)) at link roofing.local/OPR/ (from roofing.local/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.20.4)
+19:45:50	Error: 	"Not Found" (404) at link roofing.local/optusnet.com.au (from roofing.local/wp-content/plugins/wpforms-lite/assets/lib/mailcheck.min.js?ver=1.1.2)
+19:45:50	Error: 	"Not Found" (404) at link roofing.local/com.au (from roofing.local/wp-content/plugins/wpforms-lite/assets/lib/mailcheck.min.js?ver=1.1.2)
+19:45:50	Error: 	"Not Found" (404) at link roofing.local/net.au (from roofing.local/wp-content/plugins/wpforms-lite/assets/lib/mailcheck.min.js?ver=1.1.2)
+19:45:50	Warning: 	Retry after error -4 (No data (connection closed)) at link roofing.local/wp-content/uploads/2021/06/sketch-1.png (from roofing.local/wp-content/uploads/elementor/css/post-637.css?ver=1713285437)
+19:45:54	Warning: 	Retry after error -4 (No data (connection closed)) at link roofing.local/wp-json/wp/v2/pages/939 (from roofing.local/services/)
+19:45:54	Warning: 	Moved Permanently for roofing.local/?p=15
+19:45:54	Warning: 	File has moved from roofing.local/?p=15 to http://roofing.local/projects/
+19:46:15	Warning: 	Retry after error -4 (No data (connection closed)) at link roofing.local/wp-content/uploads/2024/04/tree-3252382_1280-1-min-1024x682.png (from roofing.local/projects/)
+19:46:15	Warning: 	Retry after error -4 (No data (connection closed)) at link roofing.local/wp-content/uploads/2021/06/5.jpg (from roofing.local/projects/)
+19:46:15	Warning: 	Moved Permanently for roofing.local/?p=17
+19:46:15	Warning: 	File has moved from roofing.local/?p=17 to http://roofing.local/contact-us/
+19:47:06	Warning: 	Retry after error -4 (No data (connection closed)) at link roofing.local/-negative.svg (from roofing.local/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.20.4)
+19:47:06	Error: 	"Not Found" (404) at link roofing.local/OPR/ (from roofing.local/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.20.4)
+19:47:06	Error: 	"No data (connection closed)" (-4) after 2 retries at link roofing.local/wp-json/wp/v2/pages/939 (from roofing.local/services/)
+19:47:33	Error: 	"Not Found" (404) at link roofing.local/-negative.svg (from roofing.local/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.20.4)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 32 seconds : 123 links scanned, 90 files written (11049310 bytes overall) [9503307 bytes received at 24243 bytes/sec], 3107273 bytes transferred using HTTP compression in 59 files, ratio 20%, 3.0 requests per connection
+(7 errors, 29 warnings, 0 messages)
